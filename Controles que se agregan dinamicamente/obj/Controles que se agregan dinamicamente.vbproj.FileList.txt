@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Controles_que_se_agregan_dinamicamente.Form1.resources
+obj\Debug\Controles_que_se_agregan_dinamicamente.Resources.resources
+obj\Debug\Controles que se agregan dinamicamente.vbproj.GenerateResource.Cache
+bin\Debug\Controles que se agregan dinamicamente.exe
+bin\Debug\Controles que se agregan dinamicamente.pdb
+bin\Debug\Controles que se agregan dinamicamente.xml
+obj\Debug\Controles que se agregan dinamicamente.exe
+obj\Debug\Controles que se agregan dinamicamente.xml
+obj\Debug\Controles que se agregan dinamicamente.pdb
